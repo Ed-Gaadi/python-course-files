@@ -1,2 +1,2 @@
 # python-course-files
-Course files of Python offered by Ed-Gaadi.
+The entirety of the Python course provided by Ed-Gaadi can be found in this repository. To access the course, please visit edgaadi.com/python.
