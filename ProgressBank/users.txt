@@ -1,0 +1,2 @@
+{'name': 'Aromal', 'phoneNumber': '9898989898', 'address': 'test', 'email': 'aromal@gamil.com', 'userName': 'aromal', 'password': 'aromal123', 'accountNumber': 6000000001, 'accountBalance': 0}
+{'name': 'lksjdfl', 'phoneNumber': 'lskdfj', 'address': 'dlfkjd', 'email': 'dflkjdf', 'userName': 'dlkfj', 'password': 'dlfkjd', 'accountNumber': 6000000002, 'accountBalance': 0}

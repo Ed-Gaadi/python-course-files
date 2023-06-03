@@ -1,0 +1,3 @@
+division by zero
+division by zero2023-03-03 21:49:57.851091
+name 'sldkfj' is not defined2023-03-03 21:50:32.447639
